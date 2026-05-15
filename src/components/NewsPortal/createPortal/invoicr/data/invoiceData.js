@@ -1,0 +1,106 @@
+export const PLACEHOLDER_DATA = {
+  invoiceNo: "[INV/MP/2025/001]",
+  invoiceDate: "[YYYY-MM-DD]",
+  orderId: "[ORD-1234567]",
+  paymentMethod: "[Online UPI/Card]",
+  buyer: {
+    name: "[Customer Full Name]",
+    email: "[customer@example.com]",
+    mobile: "[9876543210]",
+    planName: "[Premium Annual Subscription]",
+    gstin: "[GSTIN-IF-PROVIDED]",
+    gstName: "[Customer GST Business Name]",
+  },
+  item: {
+    name: "[Plan Name]",
+    rate: "[Plan Amount]",
+    taxable: "[Taxable Value]",
+    cgst: "B",
+    sgst: "C",
+    total: "A+B+C",
+  },
+  discount: {
+    code: "[Coupon Code Applied]",
+    amount: "[Discount Amount]",
+    total: "[Discount Amount]",
+  },
+  gstSummary: {
+    taxable: "[Taxable Value]",
+    cgst: "[CGST Amount]",
+    sgst: "[SGST Amount]",
+    total: "[Total Tax Amount]",
+  },
+  totals: {
+    subtotal: "[Plan Amount]",
+    discount: "[Discount Amount]",
+    tax: "[Total Tax Amount]",
+    final: "[Final Amount Paid]",
+    inWords: "[Amount in Words Text]",
+  },
+  contact: "[Support Email/Phone Number]",
+};
+
+export const DEMO_DATA = {
+  invoiceNo: "INV/MP/2025/0042",
+  invoiceDate: "2025-12-10",
+  orderId: "ORD-9876543",
+  paymentMethod: "UPI (PhonePe)",
+  buyer: {
+    name: "Vikas Sharma",
+    email: "vikas.sharma@patrakar.in",
+    mobile: "+91 99001 23456",
+    planName: "Premium Annual Subscription",
+    gstin: "09ABCDE1234F1Z9",
+    gstName: "VS Media Solutions",
+  },
+  item: {
+    name: "Premium Annual Subscription",
+    rate: "5084.75",
+    taxable: "4084.75",
+    cgst: "367.63",
+    sgst: "367.63",
+    total: "4820.01",
+  },
+  discount: {
+    code: "PATRAKAR20",
+    amount: "1000.00",
+    total: "1000.00",
+  },
+  gstSummary: {
+    taxable: "4084.75",
+    cgst: "367.63",
+    sgst: "367.63",
+    total: "735.26",
+  },
+  totals: {
+    subtotal: "5084.75",
+    discount: "1000.00",
+    tax: "735.26",
+    final: "4820.01",
+    inWords: "Four Thousand Eight Hundred Twenty and One Paisa",
+  },
+  contact: "support@mypatrakar.in",
+  seller: {
+    businessName: "My Patrakar",
+    ownerName: "Ankit Sonkar",
+    gstin: "09MKUPS1103E2ZR",
+    pan: "FGNPM2312P",
+    address: "41-A, Krishna Vihar, Near Takrohi, Indira Nagar, Lucknow, UP – 226016",
+    state: "Uttar Pradesh",
+    city: "Lucknow",
+    pincode: "212208",
+    supportEmail: "mypatrakarsupport@gmail.com",
+    supportPhone: "1309387814",
+    website: "https://mypatrakar.com/"
+  },
+  bank: {
+    accountHolder: "Ankit Sonkar",
+    bankName: "Bank Of India",
+    accountNumber: "12550100012009",
+    ifsc: "BARGOPASSAR",
+    branch: "Munshi Pulia Lucknow",
+    upiId: "mypatrakar@upi"
+  },
+  hsnSac: "998431",
+  taxRate: 18
+};

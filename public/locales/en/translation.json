@@ -1,0 +1,488 @@
+{
+  "menu": {
+    "home": "Home",
+    "schedule_demo": "Schedule Demo",
+    "contact": "Contact",
+    "mypatrakar_ai": "Try MyPatrakar AI",
+    "price": "Pricing",
+    "resources": "Resources",
+    "blog": "Blog",
+    "signupForFree": "Sign Up For Free",
+    "signin": "Sign In",
+    "AI": "Try MyPatrakar AI",
+    "product": {
+      "product": "Products",
+      "website": "Website",
+      "app": "App-Mypatrakar v1"
+    }
+  },
+  "hero": "Only-Stop Solution for complete News Portal Development",
+  "heroDesc": "Create an online presence of your news agency with a quick and easy news portal setup within 48 hours at affordable pricing.",
+  "heroButtons": {
+    "android": "Mobile App Demo (Android & iOS)",
+
+    "website": "Demo Website",
+    "admin": "Demo Admin Pannel"
+  },
+  "heroButtonsFree": "Try It Free Today!",
+  "reportersSec": "More than 150+ Reporters use My Patrakar",
+  "instructions": {
+    "mainHeading": "What is the need for news portal development?",
+    "mainHeadingDesc": "Create your own news portal to reach a global audience, build your brand, and create a valuable platform for content and ads. Harness its potential for content distribution, advertising, and establishing your brand among the leading names in news.",
+    "mainSubheading": "Fully functional Website & App",
+    "mainSubheadingDesc": "has state-of-the-art knowledge and fruitful experience in developing and launching alluring and eye-catching news portals.",
+    "instructionHeadings": {
+      "operate": "Easy to Operate",
+      "operateDesc": "Even without expertise in website and app development, you can still contribute to our developed news portals without needing coding skills.",
+      "pricing": "Affordable Pricing",
+      "pricingDesc": "We guarantee a fully professional news portal developed within your budget, prioritizing your needs and incorporating top-notch features.",
+      "support": "24x7 Hour Call Support",
+      "supportDesc": "Feel free to reach out to us between 10am and 8pm from Monday to Saturday with any queries, issues, or assistance needs. We're here to help and will be glad to assist you."
+    }
+  },
+  "appOrWebViewOnHome": {
+    "heading": "Build your News App & Website with MyPatrakar"
+  },
+  "functionality": {
+    "mainHeading": "Why choose My Patrakar for your News Portal Development",
+    "button": "Download Brochure",
+    "functions": {
+      "vote": "Empower People’s Voice",
+      "voteDesc": "Create Exit Polls and Social Voting on Current Issues with your News Portal",
+      "reporter": "Enhanced Reporting",
+      "reporterDesc": "Separate Reporter Panel in the Admin Panel for Streamlined News Publishing      – Empower Your Editorial Team with Efficiency!",
+      "audience": "Engage Your Audience",
+      "audienceDesc": "Integrate Your YouTube Channel with App and Website on Your News Portal"
+    }
+  },
+  "features": {
+    "mainHeading": "What features MyPatrakar will provide in your News Portal Development?"
+  },
+  "pricing": "Simple and Economical pricing so every News channel could afford",
+  "india": "India",
+  "other": "Outside of India",
+  "cardTaxText": "All prices are exclusive of applicable taxes",
+  "packageFeatureText": "Everything in plan",
+  "purchaseBtn": "Purchase Now",
+  "enterPriseRepaiText": "AMC is applicable from 2nd year: ₹7,500.00 AMCs are subject to change.",
+  "basicDesc": "Best for new businesses and startups or entrepreneurs",
+  "premiumDesc": "Best for small-medium businesses and multivendor platforms",
+  "enterpriseDesc": "Ideal for startups, growing businesses, and retail expansion success.",
+  "footer": {
+    "top": {
+      "mainHeading": "Looking for an excellent News Portal Design?",
+      "mainHeadingDesc": "Give us a call or drop a message anytime, we answer inquiries within 24 hours on business days.",
+      "getInTouch": "Get In Touch",
+      "address": "Building No 10/703, Ground Floor, near Arvindo Park Road, Sector 10, Indira Nagar, Lucknow, Uttar Pradesh 226016",
+      "form": {
+        "heading": "Get Started",
+        "subheading": "",
+        "phone": "Phone Number",
+        "message": "Message",
+        "button1": "Request Call",
+        "button2": "Request Call Success",
+        "phonePlaceholder": "Enter your phone number",
+        "messagePlaceholder": "Enter your message"
+      },
+      "modal": {
+        "title": "Success",
+        "description": "Your request submit successfully",
+        "button": "Ok"
+      }
+    },
+    "bottom": {
+      "heading1": "Useful Links",
+      "termsAndConditions": "Terms & Condition",
+      "privacyPolicy": "Privacy Policy",
+      "navigation": "Navigation",
+      "heading2": "Get Started Now",
+      "headingDesc": "Register your news channel in just 2 minutes.",
+      "copyRight": "Copyright Hindtech It Solutions. All Rights Reserved"
+    }
+  },
+  "website": {
+    "feature1": {
+      "heading": "# Feature 1",
+      "subHeading": "Interest-Based Content Personalization",
+      "desc": "Allows users to select their preferred news topics during onboarding, enabling the platform to personalize the news feed and deliver more relevant, engaging content.",
+      "features": {
+        "feature1": "Topic selection.",
+        "feature2": "Personalized feed.",
+        "feature3": "Preference saving."
+      }
+    },
+    "feature2": {
+      "heading": "#Feature 2",
+      "subHeading": "Listen to News Articles on the Go!",
+      "desc": "Text-to-Speech feature. With just a click of a button, user can listen to news articles instead of reading them.",
+      "features": {
+        "feature1": "The system converts the text into clear, natural-sounding speech.",
+        "feature2": "Enhance your news reading.",
+        "feature3": "Text-to-Speech (TTS) button alongside articles."
+      }
+    },
+    "feature3": {
+      "heading": "# Feature 3",
+      "subHeading": "Personalised experience with the Content Filtering.",
+      "desc": "Users can now tailor their news feed to their preferences by filtering content based on categories such as politics, technology, entertainment, and more. With this feature, staying updated on the latest news has never been easier or more customisable.",
+      "features": {
+        "feature1": "Access relevant news and stay up-to-date with current events.",
+        "feature2": "Selecting specific categories of interest.",
+        "feature3": "More convenient and personalised."
+      }
+    },
+    "feature4": {
+      "heading": "# Feature 4",
+      "subHeading": "Social Media Integration",
+      "desc": "Seamlessly integrate platforms like Facebook, Twitter, Instagram, and more to access personalised news feeds, share articles with your users, and engage with the community",
+      "features": {
+        "feature1": "Enhance your social media experience by integrating it with Your News.",
+        "feature2": "Seamlessly integrate all your social media accounts into Your News Portal.",
+        "feature3": "Access and share news across platforms seamlessly."
+      }
+    },
+    "feature5": {
+      "heading": "# Feature 5",
+      "subHeading": "YouTube Channel Live Feature in News Portal",
+      "desc": "This feature allows for the effortless embedding of YouTube channels directly into our news portal. With this integration, users can now access video content alongside articles, enriching their news consumption experience.",
+      "features": {
+        "feature1": "Enhance user engagement with multimedia content.",
+        "feature2": "Strengthen online presence with shared multimedia content.",
+        "feature3": "Expand content variety with embedded videos."
+      }
+    },
+    "feature6": {
+      "heading": "# Feature 6",
+      "subHeading": "Exit Polls and Public Quizzes",
+      "desc": "Featuring real-time exit polls providing insights into voter sentiment and predictions for the outcome.",
+      "features": {
+        "feature1": "Stay informed with our comprehensive exit polls coverage.",
+        "feature2": "Explore the latest election updates.",
+        "feature3": "Data-driven analysis and interactive quizzes."
+      }
+    },
+    "feature7": {
+      "heading": "# Feature 7",
+      "subHeading": "Public Ad Showcase",
+      "desc": "This feature Give your audience a platform to showcase their products, services, or events to a wider audience while generating revenue for your news portal.",
+      "features": {
+        "feature1": "Diversify content.",
+        "feature2": "Revenue generation.",
+        "feature3": "Engage your audience."
+      }
+    },
+    "feature8": {
+      "heading": "# Feature 8",
+      "subHeading": "Enhanced In-App Features: Live Stock, Sports.",
+      "desc": "Stay updated on live stock updates, sports news, and your daily horoscope Download your ID card directly through the app.",
+      "features": {
+        "feature1": "Live Stock,Sports, Horoscope.",
+        "feature2": "Reporters Detail.",
+        "feature3": "Apply ID Card/Download ID Card."
+      }
+    },
+    "viewHeading": "Launch your own news portal website",
+    "viewDesc": "Dynamic and versatile solution designed to empower news agencies. With its robust features and user-friendly interface, it provides an efficient platform for delivering captivating news experiences to audiences worldwide.",
+    "vewFeature": "Try out the demo website available on demo links!",
+    "btn1": "Demo Website",
+    "btn2": "Demo Admin Pannel"
+  },
+  "app": {
+    "feature1": {
+      "heading": "# Feature 1",
+      "subHeading": "Interest-Based Content Personalization",
+      "desc": "Allows users to select their preferred news topics during onboarding, enabling the platform to personalize the news feed and deliver more relevant, engaging content.",
+      "features": {
+        "feature1": "Topic selection.",
+        "feature2": "Personalized feed.",
+        "feature3": "Preference saving."
+      }
+    },
+    "feature2": {
+      "heading": "#Feature 2",
+      "subHeading": "Breaking News Feed with Category Highlights",
+      "desc": "Presents the latest and breaking news in a dynamic feed, combining top headlines with category-wise sections to ensure users stay updated in real time.",
+      "features": {
+        "feature1": "Real-time breaking news alerts displayed prominently.",
+        "feature2": "Category-wise news sections for easy browsing.",
+        "feature3": "Continuous scrolling news feed for seamless consumption."
+      }
+    },
+    "feature3": {
+      "heading": "#Feature 3",
+      "subHeading": "Timeline-Based News Roadmap",
+      "desc": "Organizes category-specific news in a chronological roadmap format, helping users track how events and stories evolve over time with clear date and time markers.",
+      "features": {
+        "feature1": "Chronological news timeline.",
+        "feature2": "Event progression tracking.",
+        "feature3": "Category-focused roadmap."
+      }
+    },
+
+    "feature4": {
+      "heading": "#Feature 4",
+      "subHeading": "User Profile & App Navigation Menu",
+      "desc": "Provides users with a centralized side menu to manage their profile, preferences, and access key app sections such as bookmarks, interests, help, and additional news services.",
+      "features": {
+        "feature1": "User profile overview.",
+        "feature2": "Theme mode toggle.",
+        "feature3": "Quick navigation links."
+      }
+    },
+    "feature5": {
+      "heading": "#Feature 5",
+      "subHeading": "Multi-Language News Experience",
+      "desc": "Enables users to change the app language seamlessly, allowing them to consume news in their preferred regional or global language for better accessibility and understanding.",
+      "features": {
+        "feature1": "Multiple language options.",
+        "feature2": "One-tap language update.",
+        "feature3": "Localized news experience."
+      }
+    },
+    "feature6": {
+      "heading": "#Feature 6",
+      "subHeading": "Advanced News Discovery & Search",
+      "desc": "Allows users to explore news intelligently using search, voice input, filters, tags, and location-based options to quickly discover relevant and latest stories.",
+      "features": {
+        "feature1": "Keyword and voice search.",
+        "feature2": "Category, sort, and location filters.",
+        "feature3": "Trending tags exploration."
+      }
+    },
+    "feature7": {
+      "heading": "#Feature 7",
+      "subHeading": "Personalized Recommended News Feed",
+      "desc": "Shows a curated list of recommended news articles based on user interests and engagement, with support for video-only filtering and quick discovery through search.",
+      "features": {
+        "feature1": "Interest-based recommendations.",
+        "feature2": "Videos-only content filter.",
+        "feature3": "Integrated search access."
+      }
+    },
+    "feature8": {
+      "heading": "#Feature 8",
+      "subHeading": "Detailed News Article View",
+      "desc": "Provides a clean and immersive news reading experience with a featured image, category tag, engagement metrics, author details, and full article content optimized for mobile users.",
+      "features": {
+        "feature1": "Large featured image banner for strong visual impact.",
+        "feature2": "Category-wise labeling (e.g., Bollywood News).",
+        "feature3": "Engagement metrics including views and comments count.",
+        "feature4": "Author name and publish date visibility.",
+        "feature5": "Social sharing and report news options.",
+        "feature6": "Readable typography with distraction-free content layout.",
+        "feature7": "Support for comments and user interaction."
+      }
+    },
+    "feature9": {
+      "heading": "#Feature 9",
+      "subHeading": "News Article with Embedded Video & Source Options",
+      "desc": "Enables rich news storytelling by embedding official videos (such as trailers) directly within articles, along with source attribution and enhanced engagement controls.",
+      "features": {
+        "feature1": "Embedded YouTube video support inside news articles.",
+        "feature2": "One-tap option to view the video directly on YouTube.",
+        "feature3": "Visit source link for original content attribution."
+      }
+    },
+    "feature10": {
+      "heading": "#Featur10",
+      "subHeading": "Smart Feedback System with Integrated Social Sharing & Ad Slots",
+      "desc": "Boost user retention and monetization with a dedicated engagement section for every post. This feature combines social virality tools with a seamless feedback loop to keep your community active.",
+      "features": {
+        "feature1": "One-Tap Social Sharing: High-visibility social triggers (Facebook, X, WhatsApp) to drive organic traffic back to your platform.",
+        "feature2": "Professional Feedback Loop: A clean, validated comment system allowing users to share insights, fostering a sense of community around your content.",
+        "feature3": "Strategic Ad Placement: Built-in native ad slots above and below engagement zones to maximize click-through rates (CTR) without disrupting user experience."
+      }
+    },
+    "feature11": {
+      "heading": "#Feature 11",
+      "subHeading": "Comment Panel with Engagement Controls",
+      "desc": "Shows comments inside a swipe-up bottom sheet modal news app, improving readability and interaction during product preview demos.",
+      "features": {
+        "feature1": "Slide-up bottom sheet modal for viewing comments.",
+        "feature2": "Close button (X) at top-right for quick dismiss.",
+        "feature3": "Comment count display at top of article."
+      }
+    },
+   "feature12": {
+      "heading": "#Feature 12",
+      "subHeading": "Seamless YouTube Sync & Real-Time Content Streaming",
+      "desc": "Empower your platform with deep YouTube integration. This feature allows users to sync their entire YouTube presence—including Live streams, Shorts, and Playlists—directly into your application for a unified viewing experience.",
+      "features": {
+        "feature1": "Real-Time Channel Sync: Automatically fetch and display channel banners, bios, and subscriber counts via official YouTube APIs.",
+        "feature2": "Unified Content Hub: Categorized browsing for VODs, Shorts, and Live events, maintaining the familiar UI/UX that users already love.",
+        "feature3": "One-Tap Engagement: Integrated 'Subscribe' and 'Share' functionalities that bridge the gap between your platform and the YouTube ecosystem."
+      }
+    },
+    "feature13": {
+      "heading": "#Feature 13",
+      "subHeading": "Real-App Ratio, Top Bar, LIVE Badge & Action Controls",
+      "desc": "Renders the product preview inside a full LIVE-app style layout including top status bar spacing, LIVE indicator, share & refresh actions, channel header section, and content placeholders with proper app ratio.",
+      "features": {
+        "feature1": "Top status bar spacing matching real LIVE app UI.",
+        "feature2": "LIVE badge with dot indicator in header.",
+        "feature3": "Quick actions: refresh, share and back navigation."
+      }
+    },
+    "feature14": {
+      "heading": "#Featur14",
+      "subHeading": "Immersive Shorts News Module and Frictionless Content ",
+      "desc": "A dynamic media engine that transforms long-form news into byte-sized, multi-sensory experiences. This feature is designed to reduce churn and maximize user session time through innovative interaction tools.",
+      "features": {
+        "feature1": "On-Demand News Narration: Integrated text-to-speech engine lets users 'listen' to the news, making content accessible during multitasking.",
+        "feature2": "Geo-Tagged Local Context: Deep location awareness allows users to instantly view the geographical context of a news story with a single tap.",
+        "feature3": "Integrated Viral Growth Toolkit: Frictionless social sharing (WhatsApp direct) and feedback loops (claps, bookmarks) to drive organic platform growth."
+      }
+    },
+    "feature15": {
+      "heading": "#Feature 15",
+      "subHeading": "Search Box, Location List & Apply Controls",
+      "desc": "Shows a location filter overlay with a search input, selectable location options, and quick action buttons to apply or clear the filter, matching the app preview design.",
+      "features": {
+        "feature1": "Header title 'Select Location' with close (X) button.",
+        "feature2": "Search input box with placeholder 'Search location…'.",
+        "feature3": "Selectable location list with radio buttons."
+      }
+    },
+    "feature16": {
+      "heading": "#Feature 16",
+      "subHeading": "Vote Stats with Party List & Status Footer",
+      "desc": "Displays poll results with party options, vote percentage bars, and poll status indicators in a clean preview layout.",
+      "features": {
+        "feature1": "Party-wise vote percentage progress bars.",
+        "feature2": "User poll status badges (Already voted, Expired, Expired timer).",
+        "feature3": "Footer actions for reporting and sharing poll."
+      }
+    },
+    "feature17": {
+      "heading": "#Featur17",
+      "subHeading": "Filter Polls by Date, Votes & Status",
+      "desc": "Allows users to filter election polls based on date, popularity, creator and vote participation status.",
+      "features": {
+        "feature1": "Filter by poll date (Active or Expired).",
+        "feature2": "Sort polls by votes (Most voted or Least voted).",
+        "feature3": "Filter by user vote status (All, Voted, Not voted)."
+      }
+    },
+    "feature18": {
+      "heading": "#Featur18",
+      "subHeading": "Election Poll Result Analytics Seat Count, Party Stats & Key Candidates",
+      "desc": "Shows election poll result with total seats, party-wise distribution chart, target seats, candidate results, and quick actions.",
+      "features": {
+        "feature1": "Total seat count with party-wise breakdown.",
+        "feature2": "Donut chart for seat distribution and target seat indicator.",
+        "feature3": "Key candidates list with win status and party symbols."
+      }
+    },
+    "feature19": {
+      "heading": "#Featur19",
+      "subHeading": "Marketplace Ads Corner Seller & Buyer Mode with Promoted Ads",
+      "desc": "Displays promoted marketplace ads with pricing, seller/buyer toggle, location tag, and support access.",
+      "features": {
+        "feature1": "Toggle between Seller and Buyer modes.",
+        "feature2": "Showcase promoted ads with price and sponsor details.",
+        "feature3": "Quick access to location-based ads and support."
+      }
+    },
+    "feature20": {
+      "heading": "#Featur20",
+      "subHeading": "Marketplace Ad Service Details & Contact Access",
+      "desc": "Showcases ad card with service overview, pricing, gallery preview, and multiple contact channels.",
+      "features": {
+        "feature1": "Service title and price display with business summary.",
+        "feature2": "Image gallery preview slider for ad showcase.",
+        "feature3": "Direct contact options including Phone, Email, Website, and WhatsApp."
+      }
+    },
+    "feature21": {
+      "heading": "#Featur21",
+      "subHeading": "Seller Query Form & Direct Contact",
+      "desc": "Lets sellers submit what they want to sell using a structured query form or connect instantly via WhatsApp.",
+      "features": {
+        "feature1": "Seller query input box with 100-character limit.",
+        "feature2": "Seller identity fields: Name and Contact Number.",
+        "feature3": "Product/Service description box with 200-character limit."
+      }
+    },
+    "feature22": {
+      "heading": "#Feature 22",
+      "subHeading": "Raise a Buyer Query Product Requirement Form & WhatsApp Support",
+      "desc": "Enables buyers to submit product purchase requirements using a structured query form or connect instantly via WhatsApp support.",
+      "features": {
+        "feature1": "Search query input box with 100 character limit.",
+        "feature2": "User identity fields including Name and Contact Number.",
+        "feature3": "Description box with 200 character limit for detailed requirements."
+      }
+    },
+    "viewHeading": "Launch your own news portal mobile app",
+    "viewDesc": "Take your news agency online by creating a no-code news portal app (Android) in 48 hours at affordable pricing",
+    "viewFeature": "Try out the demo app available on store"
+  },
+  "contact": {
+    "topHeading": "Need help in getting started with MyPatrakar?",
+    "topHeadingDesc": "Schedule a demo call or request a callback",
+    "exploreBtn": "Explore resources",
+    "visionHeading": "Vision",
+    "visionDesc": "To empower small and independent journalists with a digital-first platform that provides them with their own news app, website, and publishing tools—ensuring their voices reach a wider audience in the fastest and most impactful way.",
+    "missionHeading": "Mission",
+    "missionDesc": "We aim to revolutionize local journalism by offering an easy-to-use SaaS platform that enables small journalists to launch their own news app, website, and digital newsroom within 48 hours. By providing powerful tools, monetization options, and audience engagement features, we help journalists establish their brand, grow their reach, and deliver trustworthy news to the world.",
+    "contactUs": "Contact us"
+  },
+  "signIn": {
+    "signInDesc": "Helping news agencies launch their own news portal app & website",
+    "featureHeading1": "Trusted by hundreds of news agencies",
+    "featureDesc1": "My Partaker is trusted by hundreds of businesses and startups",
+    "featureHeading2": "Trusted by hundreds of news agencies",
+    "featureDesc2": "My Partaker is trusted by hundreds of businesses and startups",
+    "featureHeading3": "Trusted by hundreds of news agencies",
+    "featureDesc3": "My Partaker is trusted by hundreds of businesses and startups",
+    "featureHeading4": "Launch your own app & website within a week",
+    "featureDesc4": "You can launch your app & website within a week and start news portal"
+  },
+  "appPreview": {
+    "dailyNewsLive": "Daily News Live",
+    "topStories": "Top Stories",
+    "explore": "Explore",
+    "shorts": "Shorts",
+    "youtube": "Youtube",
+    "polls": "Polls",
+    "topNews": "Top News",
+    "trending": "Trending",
+    "politics": "Politics",
+    "sports": "Sports"
+  },
+  "webPreview": {
+    "header": {
+      "advertise": "Advertise with us",
+      "navigation": {
+        "desh": "Country",
+        "news": "News",
+        "uttar_pradesh": "Uttar Pradesh",
+        "madhya_pradesh": "Madhya Pradesh",
+        "entertainment": "Entertainment",
+        "misc": "Miscellaneous"
+      }
+    },
+    "footer": {
+      "navigation": {
+        "home": "Home",
+        "about": "About Us",
+        "terms": "Terms & Condition",
+        "privacy": "Privacy & Policy",
+        "contact": "Contact Us"
+      },
+      "exclusive": "#BS_EXCLUSIVE",
+      "copyright": "My Patrakar. All rights reserved.",
+      "powered": "Powered & Developed by MyPatrakar"
+    },
+    "mainContent": {
+      "advertisement": "ADVERTISEMENT",
+      "loading": "Loading..."
+    },
+    "loginCard": {
+      "login": "Login",
+      "signup": "Sign Up",
+      "welcome": "Welcome Back",
+      "desc": "Sign in to continue to your account"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+.custom-dropdown .rs-dropdown-toggle {
+    background-color: transparent !important; /* Removes default background */
+    padding: 2;
+  }
+  
+  /* .custom-dropdown-item {
+    font-weight: 500; 
+  } */
+  
+  /* Optional: Styling for hover state */
+  .custom-dropdown-item:hover {
+    background-color: #f8d5d5;
+    color: red; /* Light gray for hover */
+  }
+  .custom-title {
+    padding-right: 0rem !important;
+    font-size: 1rem; /* Increases font size for the title */
+    font-weight: 600;  /* Optional: Makes the title bolder */
+  }
+  
